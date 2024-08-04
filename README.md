@@ -1,2 +1,15 @@
-# Job-Application-Portal
-Full-Fledged Job Application Portal Using MERN Stack.
+FULL-FLEDGED JOB APPLICATION PORTAL USING MERN STACK.
+
+
+
+RUN FOLLOWING SCRIPTS :
+
+IN MAIN FOLDER : npm create vite@latest
+
+
+
+IN SERVER FOLDER INSIDE MAIN FOLDER : 
+
+1ST SCRIPT : npm init -y
+
+2ND SCRIPT : npm install express mongoose dotenv cors
